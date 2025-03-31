@@ -1248,13 +1248,13 @@
 
                             document.getElementById("treatmentRulesBtn").addEventListener("click", () => {
                                 modalTitle.textContent = "Treatment Rules";
-                                modalContent.textContent = "Ni hao fyne shit";
+                                modalContent.textContent = "This function is not implemented yet.";
                                 modal.classList.remove("hidden");
                             });
 
                             document.getElementById("decisionRulesBtn").addEventListener("click", () => {
                                 modalTitle.textContent = "Decision Rules";
-                                modalContent.textContent = "hmu baby girl";
+                                modalContent.textContent = "This function is not implemented yet.";
                                 modal.classList.remove("hidden");
                             });
 
